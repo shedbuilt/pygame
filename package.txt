@@ -1,0 +1,7 @@
+NAME=pygame
+VERSION=1.9.3
+REVISION=1
+SRC=https://github.com/pygame/pygame/archive/1.9.3.tar.gz
+SRCMD5=ab91f14e085cf78c3187cd0782bac58f
+BUILDDEPS=python3 sdl sdl-ttf
+INSTALLDEPS=python3 sdl sdl-ttf
